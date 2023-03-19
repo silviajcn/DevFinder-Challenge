@@ -8,16 +8,18 @@ This is a solution to the GitHub user search app challenge on [Frontend Mentor](
 
 The points of the challenge that must be met:
 
-- View the optimal layout for the app depending on their device's screen size
-- See hover states for all interactive elements on the page
-- Search for GitHub users by their username
-- See relevant user information based on their search
-- Switch between light and dark themes
+- View the optimal layout for the app depending on their device's screen size ✅
+- See hover states for all interactive elements on the page ✅
+- Search for GitHub users by their username ✅
+- See relevant user information based on their search ✅
+- Switch between light and dark themes ✅
 - Bonus: Have the correct color scheme chosen for them based on their computer preferences. Hint: Research prefers-color-scheme in CSS.
 
 ![Reto DevFinder](https://res.cloudinary.com/silviajcn/image/upload/v1679109708/PRACTICAS/Varios/screenshot_azf7da.jpg)
 
 ## 🖱️ Visit here: 
+
+https://dev-finder-challenge.vercel.app/
 
 ## 📁 Project:
 
@@ -53,7 +55,7 @@ The points of the challenge that must be met:
 ## ⚙️ Installation
 
 * Clone the latest code on the master branch
-    * ```git clone https://link-to-project```
+    * ```git clone https://github.com/silviajcn/DevFinder-Challenge.git```
 * Install dependencies
     * ```npm install```
 * Run the web server!
